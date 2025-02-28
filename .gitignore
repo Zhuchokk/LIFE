@@ -1,0 +1,8 @@
+.vs/
+LIFE/
+x64/
+Practice11/
+*.vcxproj
+*.filters
+*.user
+*.sln

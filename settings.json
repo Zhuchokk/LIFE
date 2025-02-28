@@ -1,0 +1,9 @@
+{
+  "width": 30,
+  "height": 30,
+  "quantity_to_birth": 3,
+  "lcount_neighbour": 2,
+  "ucount_neighbour": 3,
+  "fps": 1,
+  "color":  160
+}
